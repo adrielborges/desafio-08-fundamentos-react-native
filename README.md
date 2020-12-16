@@ -15,11 +15,6 @@
 
 ----
 
-### O resultado
-<img height="500" src="https://raw.githubusercontent.com/adrielborges/Desafio-8-Fundamentos-React-Native/master/readme-assets/gif-app.gif" alt="app gif" title="App GoMarketplace" />
-
-
-
 ### Todos os testes da aplicação obtiveram <strong>sucesso na sua execução</strong> <br/>
 <img width="480" src="https://raw.githubusercontent.com/adrielborges/Desafio-8-Fundamentos-React-Native/master/readme-assets/desafio-conclusion.png" alt="Conclusão do teste" title="Teste aprovado do App GoMarketplace" />
 
